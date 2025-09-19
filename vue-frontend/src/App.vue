@@ -32,7 +32,7 @@ const stats = computed(() => {
           <span
             class="rounded-full bg-[#A11D33]/10 px-3 py-1 text-sm font-semibold text-[#A11D33] ring-1 ring-inset ring-[#A11D33]/30"
           >
-            {{ stats.percent }}% เสร็จแล้ว
+            {{ stats.percent }}%  เสร็จแล้ว
           </span>
         </div>
         <p class="mt-2 text-sm text-gray-500">
